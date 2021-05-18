@@ -1,2 +1,0 @@
-# FactoryDB-system
-FactoryDB system
